@@ -1,0 +1,43 @@
+2ªEtapa de PES
+
+--- Aulas 4 e 5 - 2024-09-26 e 2024-10-01
+Tópicos de Análise Financeira.
+Avaliação financeira de projetos. VAL, TIR, ROI e PP.
+
+--- Aulas 6 e 7 - 2023-10-02 e 08
+Gestão do Tempo.
+Diagramas de rede e caminho crítico. Diagramas de Gantt.
+Redução da duração de um projeto.
+Nivelamento dos recursos.
+Técnicas de estimação.
+
+
+--- Aula 9 - 2024-10-15
+Gestão do Âmbito.
+Gestão do Risco.
+Gestão das Aquisições.
+
+---Aulas 10, 11 e 12 - 2024-10-21 e 22
+Acompanhamento do Plano de Gestão do Projeto.
+
+Plano de Gestão do Projeto - templates disponíveis para download
+https://www.projectmanagementdocs.com/
+https://www.smartsheet.com/content-center/best-practices/project-management-guide/templates-project-management
+https://clickup.com/
+https://www.projectmanager.com/templates/it-project-plan-template
+https://www.hubspot.com/business-templates/project-management/pdf?hubs_content=www.hubspot.com/business-templates/project-management&hubs_content-cta=cl-navLink-link#business_templates_listing_header
+
+---Aula 13 - 2024-11-05
+Gestão dos Recursos Humanos.
+Gestão da Comunicação.
+Gestão dos Stakeholders.
+
+
+--- Aulas 13 e 14
+Aula 13: 2024-11-05 (continuação)
+Acompanhamento e monitorização do projeto.
+Earned Value Management (Gestão do Valor Agregado).
+
+--- Aula 14: 2024-11-19
+Earned Value Management (continuação).
+Resolução de exercícios.
